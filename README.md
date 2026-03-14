@@ -5,7 +5,7 @@ This project applies several machine learning algorithms to predict the presence
 ## Project Overview
 Heart disease is one of the leading causes of death worldwide. Early detection is essential for prevention and treatment. In this project, several machine learning models were trained and evaluated to classify whether a patient has heart disease based on clinical features.
 
-### The workflow includes:
+### The workflow includes
 
 - Introduction
 - Dataset
@@ -58,3 +58,15 @@ Therefore, reducing false negatives is important to avoid missing potentially si
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+## Instalation
+
+To run this proyect locally:
+1. Clone the repository:
+git clone https://github.com/yourusername/heart-disease-ml.git
+
+3. Navigate to the project directory:
+cd heart-disease-ml
+
+4. Open the notebook:
+jupyter notebook
