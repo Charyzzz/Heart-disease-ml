@@ -63,7 +63,7 @@ Therefore, reducing false negatives is important to avoid missing potentially si
 
 To run this proyect locally:
 1. Clone the repository:<br>
-git clone https://github.com/Charyzzz/Heart-disease-ml/edit/main/README.md
+git clone https://github.com/Charyzzz/Heart-disease-ml
 
 3. Navigate to the project directory:<br>
 cd heart-disease-ml
