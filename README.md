@@ -5,7 +5,7 @@ This project applies several machine learning algorithms to predict the presence
 ## Project Overview
 Heart disease is one of the leading causes of death worldwide. Early detection is essential for prevention and treatment. In this project, several machine learning models were trained and evaluated to classify whether a patient has heart disease based on clinical features.
 
-The workflow includes:
+### The workflow includes:
 
 - Introduction
 - Dataset
@@ -15,7 +15,7 @@ The workflow includes:
 - Results
 - Conclusion
 
-Dataset
+### Dataset
 
 The dataset contains several clinical attributes related to heart health, such as:
 
@@ -29,7 +29,7 @@ The dataset contains several clinical attributes related to heart health, such a
 - ST depression
 - Other cardiovascular indicators
 
-Machine Learning Models Used
+### Machine Learning Models Used
 
 The following models were implemented and compared:
 
