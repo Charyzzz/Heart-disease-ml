@@ -62,11 +62,11 @@ Therefore, reducing false negatives is important to avoid missing potentially si
 ## Instalation
 
 To run this proyect locally:
-1. Clone the repository:
-git clone https://github.com/yourusername/heart-disease-ml.git
+1. Clone the repository:<br>
+git clone https://github.com/Charyzzz/Heart-disease-ml/edit/main/README.md
 
-3. Navigate to the project directory:
+3. Navigate to the project directory:<br>
 cd heart-disease-ml
 
-4. Open the notebook:
+4. Open the notebook:<br>
 jupyter notebook
